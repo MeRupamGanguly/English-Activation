@@ -1,323 +1,279 @@
 # English-Activation
+  
 
-##  Subject-Verb Agreement
+## Sentence:
+Jab ham dusre insan ko kuch bolna chahte hai ya likhna chahte hai tab ham kuch words ko combine karke ek Sentence bolte hai ya likhte hai, In words ka  matlab samne bale insan ko pehele se pata hota hai, aise ham expect karte hai to hame hamesa ohi sare words ka use karna parega jo samne bale ko pata hone ka chances jada ho. In sentence ka ekmatra ek hi kam hota hai ki samne bale ko samjh aye ham kya bolna chhate hai. 
 
-Subject-verb agreement ka matlab hai ki subject aur verb ko number (singular ya plural) aur person (first, second, ya third) mein match karna zaroori hota hai.
+To hamra target hai ki bas ham jo bole ow samne bale ko samjh aye, ki ham use kya samjhana chhate hai. 
 
-### Singular subject + Singular verb
-Jab subject singular ho, tab verb bhi singular hona chahiye.
+Agar hame English Sentence sahi se bolna hai to hame Tense ko sikhna parta hai. Tense ko ham sikhne se pehele kuch or Rules ke bare mai sikhte hai jinse Tenses ko samjh ke sahi sentence bana sake easily. 
 
-Example:  
-- She works in the office. (Singular subject + Singular verb)
+Singular: Ek.   Plural: Anek
 
-### Plural subject + Plural verb
-Jab subject plural ho, tab verb bhi plural hona chahiye.
+## Times Of Sentences:
+Jitne vi sentences bola ya likha jata hai unsab ka 3 hi type hota hai samay ke hisab se. PAST, PRESENT, FUTURE.
 
-Example:  
-- They work in the office. (Plural subject + Plural verb)
+Jab ham kisiko purane bat bolna chahate hai, tab bolne ke liea jo sentence use karte hai use Past Tense Sentence bola jata hai.
 
-### Special Cases:
-- Collective nouns (logon ya cheezon ka group) ko singular treat kiya jaata hai.
-  Example: The team is practicing.
+Jab ham kisiko avi ke bat bolna chahate hai, tab bolne ke liea jo sentence use karte hai use Present Tense Sentence bola jata hai.
 
-##  Adverb
+Jab ham kisiko vabisya/Future ke bat bolna chahate hai, tab bolne ke liea jo sentence use karte hai use Future Tense Sentence bola jata hai.
 
-Adverb kisi verb, adjective, ya dusre adverb ko modify ya describe karta hai. Yeh batata hai ki koi cheez kaise, kab, kahan, ya kis extent tak ho rahi hai.
+## Sentence Formation:
+Ek sentence pai Jo kuch karta hai use Subject bolte hai. 
 
-### Types of Adverbs:
-- **Adverbs of Manner**: Yeh batata hai ki koi action kaise ho raha hai.
-  Example: She sings beautifully.
+Subject Kya kar raha hai use Verb bolte hai. 
 
-- **Adverbs of Time**: Yeh batata hai ki koi action kab ho raha hai.
-  Example: He will come tomorrow.
+Mai Sona Chahata hu- is sentence pai mai-subject kya karna chahata hu? Sona, to sona verb hai.
 
-- **Adverbs of Place**: Yeh batata hai ki action kahan ho raha hai.
-  Example: The kids are playing outside.
+Tum kaha ja rehe ho?- is question pai tum-subject kya kar rahe ho? ja rahe ho, to ja rahe ho verb hai.
 
-- **Adverbs of Degree**: Yeh batata hai ki action, adjective, ya adverb kis degree tak ho raha hai.
-  Example: She is very happy.
+Sentence ke baki parts, subject and verb ko chorke jo subject and verb ke bare mai or jada explain karta hai use Object bolte hai. 
 
-## Adjective
+Adjective ek word hai jo Object ka description or Qualification batata hai. 
 
-Adjective ek aisa word hai jo noun ko describe ya modify karta hai. Yeh noun ke baare mein zyada information deta hai, jaise size, color, shape, age, ya aur koi quality.
+Adverb ek word hota hai jo kab, kaha, kaise, kitna ea explain karta hai sentence ka.
 
-### Types of Adjectives:
 
-- **Descriptive Adjectives**: Yeh noun ki qualities ko describe karta hai.
-  Example: The tall building is beautiful.
+- Subject Verb Object.
 
-- **Quantitative Adjectives**: Yeh noun ki quantity ko describe karta hai.
-  Example: I have three apples.
+    I play Tenis.
+    - Subject: I
+    - Verb: Play
+    - Object: Tenis.
 
-- **Demonstrative Adjectives**: Yeh specific noun ko point out karta hai.
-  Example: That book is mine.
+    The software engineers developed a new mobile app.
+    - Subject: The software engineers
+    - Verb: developed
+    - Object: a new mobile app.
 
-- **Possessive Adjectives**: Yeh ownership ya possession ko dikhata hai.
-  Example: This is my book.
+- Subject Verb Adjective Object
+
+    The software engineers developed innovative algorithms.
+    - Subject: The software engineers
+    - Verb: developed
+    - Adjective: innovative
+    - Object: algorithms.
+
+    The data scientists analyzed complex datasets.
+    - Subject: The data scientists
+    - Verb: analyzed
+    - Adjective: complex
+    - Object: datasets.
+
+- Subject Verb Object Adverb. 
+
+    The software engineers completed the project ahead of schedule.
+    - Subject: The software engineers
+    - Verb: completed
+    - Object: the project
+    - Adverb: ahead of schedule.
+
+    Our IT team resolved the issue quickly.
+    - Subject: Our IT team
+    - Verb: resolved
+    - Object: the issue
+    - Adverb: quickly.
+
+    The system administrators deployed the update efficiently.
+    - Subject: The system administrators
+    - Verb: deployed
+    - Object: the update
+    - Adverb: efficiently.
+
+
+## Auxiliary Verbs:
+Avi jo Verbs ke type hai use hame yaad rakhna hai, inke madat se ham jab Tense parenge tab sentences ko form karna sikhenge.
+
+Auxilary verbs jaise ki `Be Verb`(am, is, are, was, were, being, been), `Have verb`(have, has, had), `Do verb`(do, does, did) and `Modal verb`(can, could, may, might, must, shall, should, will, would) ea sab sentence pai use hota hai Main verb ke sath, taki Sentense ke Tense and Sentence kis Tone and kis Mood pai bola gya hai ow Jata sake.
+
+Jab sentence Present Tense pai hai and Subject pai `I`, `You`, `We`, `They` ho to `DO` ka use kia jata hai. 
+
+Jab sentence Present Tense pai hai and Subject pai `He`, `She`, `It`, Nouns(`Name`) ho to DOES ka use kia jata hai.
+
+Jab sentence pai `He`, `She`, `It` aise singular noun use hota hai tab `Has` ka use hota hai. `Anyone`, `Somebody`, `Nobody` aise Singular form ke sath vi `Has` hi use hota hai.
+
+Jab sentence pai `They`, `We`, `You` aise Plural Nouns ka use hota hai tab `Have` hota hai. Sentence pai jab `I` jo ki First Person Singular hai, usha use hota hai tab vi `Have` ka hi use hota hai. `Few`, `Several`, `Many` aise plural form ke sath vi `Have` hi use hota hai. 
+
+## Use of s/es:
+- Jab Senetence Simple Present Tense pai ho and Subject pai `He`, `She`, `It` and `Name` ho to `s`/`es` ka add hota hai verb ke end pai. Baki kisi vi case pai `s`/`es` add nhi hota hai like, agar Senetence Past or Future ka ho tab `s`/`es` add nhi hoga.Jab Simple Present Tense pai Sentence ho But Senetence pai Modal verbs like `Can`, `Could`, `May`, `Might`, `Shall`, `Should`, `Must` ka use kia gya hai tab vi `s`/`es` nhi add hota hai verb ke end pai.
+Jab verb `s`.`ss`, `sh`, `o`, `x` se end ho tab `es` add hota hai verb ke end pai. jab verb `Consonant`+`y` se end hota hai tab `y` ko replace karke `ies` ka use hota hai. jab verb ke end pai `vowel`+`y` hota hai tab `s` add hota hai verb ke end pai.
+
+Example:
+- I play tennis. `I`
+- She plays tennis. `She` `vowel`+`y`
+- We play soccer. `We`
+- They play soccer. `They`
+- She passes the ball. `She` `ss`
+- She studies for her exams. `She` `consonant`+`y`
+- He kisses his mother goodnight. `He` `ss`
+- He plays football every weekend. `He` `vowel`+`y`
+
+- He can swim. `He` `can`
+- They could come tomorrow. `They` `could`
+
+- He played soccer yesterday. `He` `played`
+- She will play soccer tomorrow. `She` `will` `play`
+
+
+## Negetive And Introgative
+- Subject + Auxiliary Verb + Not + Verb + Object
+- Auxiliary Verb + Subject + Verb + Object + ?
+
+Agar Sentence Simple Present Tense pai hai to Negetive Karne ke liea DO verb ka use karke, DO verb ke bad NOT use karenge. Introgative karna hai to DO verb ko Subject ke age shift kar denge.
+
+Agar Sentence Simple Present Tense pai hai and Modal verb use hua hai to Negetive Karne ke liea MODAL verb ke bad NOT use karenge. Introgative karna hai to Modal verb ko Subject ke age shift kar denge.
+
+Agar Sentence Simple Present Tense pai hai and Be verb use hua hai to Negetive Karne ke liea Be verb ke bad NOT use karenge. Introgative karna hai to Be verb ko Subject ke age shift kar denge.
+
+
+
+| STATEMENT     | NEGETIVE     | INTROGATIVE     |
+| ------------ | ------------ | ------------ |
+| `Cloud` stores **data**. | Cloud does not store data. | Does cloud store data?|
+| `AI` predicts **outcomes**. | AI does not predict outcomes. | Does AI predict outcomes? |
+| `Programmers` write **code**. | Programmers do not write code. | Do programmers write code? |
 
   
-## Am, Is, Are (Present Tense - Simple Present)
+When the affirmative statement includes a modal verb (e.g., can, will, should), the transformation into negatives and interrogatives follows different rules.
 
-Yeh verbs present ke baare mein baat karte hain, jaise facts, feelings, aur general truths.
+| STATEMENT     | NEGETIVE     | INTROGATIVE     |
+| ------------ | ------------ | ------------ |
+| `He` can speak **French**. | He cannot speak French. | Can he speak French? |
 
-**Am**: I ke saath use hota hai (1st person singular).
+Statements that already use auxiliary verbs (e.g., be verbs - is, am, are; have verbs - has, have) may have different transformations.
 
-Example: I am hungry. (Yeh ek state hai jo abhi ke liye hai.)  
-Real-life use: Apni current feelings ya state ke baare mein baat karna.  
-I am going to the store. (Apni abhi ki action ko describe karna.)
+| STATEMENT     | NEGETIVE     | INTROGATIVE     |
+| ------------ | ------------ | ------------ |
+| `They` are **engineers**. | They are not engineers. | Are they engineers? |
 
-**Is**: He, she, ya it ke saath use hota hai (3rd person singular).
+Present simple tense rules may not apply directly to statements in other tenses (e.g., past tense, future tense).
 
-Example: She is tired. (Yeh ek current condition describe kar raha hai.)  
-Real-life use: Kisi ki current condition ya location ke baare mein baat karna.  
-It is raining outside. (Yeh ek situation describe kar raha hai jo abhi ho raha hai.)
+| STATEMENT     | NEGETIVE     | INTROGATIVE     |
+| ------------ | ------------ | ------------ |
+| `She` played **the piano**. | She did not play the piano. | Did she play the piano? |
 
-**Are**: You, we, aur they ke saath use hota hai (2nd person singular/plural aur 1st/3rd person plural).
 
-Example: They are studying. (Yeh ek action hai jo abhi ho raha hai.)  
-Real-life use: Group of logon ke baare mein ya kuch jo abhi ho raha ho.  
-We are waiting for the bus. (Yeh ek situation hai jo abhi ho rahi hai.)
+## Preposition:
 
-##  Was, Were (Past Tense - Simple Past)
+Specific Time ko batane ke liea `AT` ka use hota hai.
+- We will meet at 7 o'clock. Hum saat baje milenge.
 
-Yeh verbs past mein hone wale actions ya states ko describe karte hain.
+Days and Dates ko batane ke liea `ON` ka use hota hai.
+- My birthday is on the 10th of June. Mera janmdin 10 June ko hai.
 
-**Was**: I, he, she, ya it ke saath use hota hai (singular).
+Jab lambe time period ka bat ho tab `IN` use hota hai.
+- She was born in 1990. Uska janm 1990 mein hua tha.  
+- It's hot in summer. Garmi mein garmi hoti hai.
 
-Example: I was at the party last night. (Past action ko describe kar raha hai.)  
-Real-life use: Koi bhi event jo past mein hua.  
-She was in New York last week. (Kisi past event ke baare mein baat karna.)
+Jab kuch sath mai batana ho tab `WITH` ka use hota hai.
+- She went shopping with her friend. Usne apne dost ke saath khareedari ki.
 
-**Were**: You, we, aur they ke saath use hota hai (plural aur 2nd person singular).
+Jab koi karan or kis ke liea or benift batana ho tab `FOR` ka use hota hai.
+- This gift is for you. Yah uphaar aapke liye hai.
 
-Example: We were tired after the trip. (Past condition ya action describe kar raha hai.)  
-Real-life use: Group ke baare mein ya jo cheezein past mein hui unke baare mein baat karna.  
-You were late for the meeting yesterday. (Past mein huye event ke baare mein baat karna.)
+Jab outwars direction batana hota hai tab `TO` ka use hota hai.
+- She went to the store. Usne dukaan par gayi.
 
-##  Has, Have (Present Perfect Tense)
+Jab inwards direction kisi chij ke andar ho tab `INTO` ka use hota hai.
+- He walked into the room.Usne kamre mein chalkar aaya.
 
-Yeh verbs aise actions ya states ko describe karte hain jo past mein shuru hui thi aur ab tak chal rahi hain, ya koi action jo past mein kisi time pe complete hua ho, lekin abhi relevant ho.
+Jab kisi bhumi ke upor koi halchal/movement batana ho tab `ONTO` ka use hota hai.
+- The cat jumped onto the table.
 
-**Has**: He, she, ya it ke saath use hota hai (3rd person singular).
+Jab kis ke madat se batana ho tab `BY` ka use hota hai.
+- She travels by car.
 
-Example: He has finished his homework. (Action complete ho gaya hai, abhi relevant hai.)  
-Real-life use: Kisi ne jo kaam kiya ho, ya jo abhi tak ho raha ho.  
-She has seen that movie before. (Yeh experience ya completed action dikhata hai.)
+Jab opinion jatana ho to `ACORDINGTO` ka use hota hai.
+- According to the weather forecast, it will rain tomorrow.
 
-**Have**: I, you, we, aur they ke saath use hota hai (1st/2nd person singular/plural aur 3rd person plural).
+Jab koi kis liea hua hai ow jatana ho to `DUETO` ka use hota hai.
+- The flight was canceled due to bad weather.
 
-Example: I have read that book. (Action past mein complete hua tha, abhi relevant hai.)  
-Real-life use: Jo cheezein past mein ho chuki hain.  
-They have lived in this city for five years. (Yeh ek ongoing situation hai jo past mein shuru hui thi.)
+Jab koi options ko nikal ke ho to `APARTFORM` ka use hota hai.
+- Apart from English, he speaks French and German.
 
-##  Do, Does, Did (Simple Present & Simple Past)
+## Modal verb
 
-Yeh verbs aksar questions, negatives, aur emphatic statements mein use hote hain.
+Jab Sentence pai Ability/Permission ea do Feelings Jatane ke kosis kia jata hai tab `CAN` ka use kia jata hai.
 
-**Do**: I, you, we, aur they ke saath (present tense).
+- She can speak Spanish. (Ability)
+- Can she speak Spanish?
+- Can I go to the bathroom? (Permission)
 
-Example: I do my homework every day. (Simple present action.)  
-Real-life use: Regular activities ya general truths ke baare mein baat karna.  
-We do exercises in the morning. (Habitual actions.)
+Jab Sentence pai Polite Request/Past Ability ea do Feelings Jatane ke kosis kia jata hai tab `COULD` ka use kia jata hai.
 
-**Does**: He, she, ya it ke saath (present tense).
+- Could You passed me the salt, please.(Polite request)
+- When I was young, I could run very fast. (Past ability)
 
-Example: Does she like ice cream? (Present action ke baare mein question.)  
-Real-life use: Questions ya negative statements banana.  
-Does he work here? (Kisi ke current job ke baare mein puchna.)
+Jab Sentence pai Advice/Expectation ea do Feelings Jatane ke kosis kia jata hai tab `SHOULD` ka use kia jata hai.
 
-**Did**: Past tense mein sabhi persons ke saath use hota hai (questions/negatives).
 
-Example: Did you see that movie last night? (Past event ke baare mein question.)  
-Real-life use: Past mein complete hui actions ya events ko refer karna.  
-Did they visit their grandparents last weekend? (Past event ke baare mein puchna.)
+- You should eat more vegetables. (Advice)
+- He should be here by now. (Expectation)
+- Should he be here by now?
 
-## Have Been, Has Been (Present Perfect Continuous)
+Jab Sentence pai Permission/Possibility ea do Feelings Jatane ke kosis kia jata hai tab `MAY` ka use kia jata hai.
 
-Yeh verbs aise actions ko describe karte hain jo past mein shuru hui thi aur abhi tak chal rahi hain, ya jo abhi recently stop hui hain, lekin unka result abhi visible hai.
 
-**Have been**: I, you, we, aur they ke saath (plural).
+- You may leave the room now. (Permission)
+- It may rain later. (Possibility)
+- It may not rain later. 
+- May it rain later?
 
-Example: I have been waiting for an hour. (Action past mein shuru hua tha aur ab tak chal raha hai.)  
-Real-life use: Yeh dikhata hai ki koi action ek time period tak ho raha tha.  
-They have been studying for the test all morning. (Ongoing action ko describe kar raha hai.)
+Jab Sentence pai Possibility/Suggestion ea do Feelings Jatane ke kosis kia jata hai tab `MIGHT` ka use kia jata hai.
 
-**Has been**: He, she, ya it ke saath (singular).
+- She might come to the party tonight. (Possibility)
+- You might want to consider a different approach. (Suggestion)
+- Might you want to consider a different approach?
+- You might not want to consider a different approach.
 
-Example: She has been working on the project for two hours. (Action past mein shuru ho gaya tha aur ab tak chal raha hai.)  
-Real-life use: Ongoing action ya experience ko describe karna.  
-He has been feeling sick all week. (Yeh dikhata hai ki past mein shuru hui koi condition ab tak chal rahi hai.)
+Jab Sentence pai Obligation/Certainty ea do Feelings Jatane ke kosis kia jata hai tab `MUST` ka use kia jata hai.
 
-##  Use of -s in Present Simple Tense
 
-Zyada tar verbs mein, jab subject he, she, ya it ho (third-person singular), toh aap -s add karte hain.
+- You must finish your homework before you can watch TV. (Obligation)
+- It must be cold outside; everyone is wearing jackets. (Certainty)
 
-Examples:  
-He works every day.  
-She sings beautifully.  
-It rains a lot in the winter.
 
-##  Use of -es in Present Simple Tense
+Jab Sentence pai Polite Request/Conditional ea do Feelings Jatane ke kosis kia jata hai tab `WOULD` ka use kia jata hai.
 
-Agar verb -s, -x, -ch, -sh, ya -o se end hota hai, toh hum -s ke bajaye -es add karte hain.
 
-Jab Add Karna Hai -es:  
-Verbs jo -s se end hote hain: pass → passes, kiss → kisses  
-Verbs jo -x se end hote hain: fix → fixes, mix → mixes  
-Verbs jo -ch se end hote hain: watch → watches, teach → teaches  
-Verbs jo -sh se end hote hain: wash → washes, push → pushes  
-Verbs jo -o se end hote hain: go → goes, do → does
+- Would you like some tea? (Polite request)
+- If I had more time, I would travel the world. (Conditional)
 
-Examples:  
-She passes the ball to him.  
-He fixes the computer.  
-It watches over the baby.  
-She washes the dishes after dinner.  
-He goes to the gym every morning.  
-She does her homework every evening.
+### TENSES
 
-##  Verbs ending in consonant + y
+`Simple Present Tense` tab use hota hai jab koi kam/verb ho raha hai or koi Habit ke bare mai jikar kia ja raha hai or koi universal truth ho-like Suraj uthega.
 
-Agar verb consonant + y se end hota hai, toh aap y ko ies mein change karte hain (y ko drop karke -ies add karte hain).  
-Example: cry → cries, fly → flies  
-Example Sentences:  
-She flies to New York every month.  
-He studies for the exam every night.
+`Simple Past Tense` tab use hota hai jab koi kam/Verb khatam ho gya hai uske bare mai jikar kia jaraha hai, and jis kam ke bare mai jikar kia ja raha hai uska avi present se koi matlab or influence nhi hai.
 
-##  If the verb ends in a vowel + y, just add -s.
+`Present Continious Tense` tab use hota hai jab ham koi kam karte karte uska jikar kar rahe hai. Ea fir koi chij past mai ho raha tha, avi vi ho raha hai and Future mai vi hoga, jab aise feelings ka jikar karte hai tab use hota hai.  
+- `We are deploying the latest software update.`
 
-Example: play → plays, buy → buys.  
-She plays the piano every evening.  
-He buys groceries on Sundays.  
-It says it's going to rain later.  
-He enjoys reading books on history.  
-She stays at her friend's house every weekend.
+`Past Continious Tense` tab use hota hai jab past mai koi kam ek time period tak chala tha ab khatam ho gya hai, and us sentence pai ham time period ka vi jikar kar rahe hai. or Jab do kam past pai eksath chal raha tha aise feelings ka jikar karna chahte hai tab vi use hoat hai (Aise sentence pai ek part senetence ka past continious tense hoat hai ek simple past hota hai). 
+- `The developers were attending a coding workshop yesterday.`
+- `They were configuring the new server setup when I called.` 
+- `We were testing the application when the server crashed.` 
 
-##  W-H-O
+`Present Perfect Tense` tab use karte hai jab koi kam kahatm to ho gya tha, but avi us kam ka Present moment se koi talukat hai. and Jab koi past kam ka fal hame present pai mil raha hai tab vi use hota hai. Aise sentence pai Accurate time mentioned nhi hota hai. 
+- `The IT support team has resolved the network issue.` 
+- `The software developers have completed the API documentation.`
 
-Who ka use person ya log ke baare mein puchne ke liye hota hai. Yeh sentence ka subject hota hai (jo action kar raha hai).
+`Past Perfect Tense` tab use hoata hai jab ham do past ke kam ka jikar karte hai, unme se ek kam dusre kam ke age hua hai ea vi jaikar karna chahate hai. 
+- `They had deployed the backup system before the data loss incident.`
+- `She had discussed the requirements with the client before the sprint planning.`
 
-Whom ka use person ke baare mein puchne ke liye hota hai jo verb ya preposition ka object hota hai. Yeh sentence ka object hota hai (jo action receive kar raha hota hai).
+`Present Perfect Continious Tense` tab use haota hai jab koi sentence pai ham, ek kam past pai start hua tha and avi just khatam hua ea feelings ka jikar karte hai. is kisam ke sentnce pai time ka jikar hota hai like kitne time se ea kam chala hai. 
+- `The IT department has been monitoring network traffic all day.` 
+- `Our engineers have been working on optimizing the database for the past few weeks.`
 
-How ka use kisi cheez ke manner ya method ke baare mein puchne ke liye hota hai, ya condition, quality, ya state ke baare mein puchne ke liye.
+`Past perfect Contionous Tense` tab use karta hai jab Senstence pai do past ke kam hai unme se ek kam dusre kam ke age khatam hua hai (matlab pehela kam dusre kam tak chala tha aisa feelings ka jikar ho) and kitne time laga tha ow kam karne ke liea ow jikar vi sentence pai kia gya hai. 
+- `Our team had been working on the prototype when the requirements changed.`
+- `By the time we discovered the vulnerability, hackers had been exploiting it for weeks.`
+- `By the time they joined the project, we had been troubleshooting the server issues for several days.`
 
-Why ka use kisi cheez ke reason ya purpose ke baare mein puchne ke liye hota hai.
 
-What ka use cheezon ke baare mein puchne ke liye hota hai, ya kisi cheez ki identity, nature, ya definition ke baare mein puchne ke liye.
-
-Which ka use tab hota hai jab aap kisi specific set ya group se ek ya zyada cheezein puch rahe ho. Jab limited choice ho.
-
-Where ka use location ya place ke baare mein puchne ke liye hota hai.
-
-When ka use time ke baare mein puchne ke liye hota hai, jaise kisi specific point ya event ke baare mein.
-
-**Who**:  
-Who invited you to the party? (Jo invitation diya uske baare mein puchna.)  
-Who is responsible for this project? (Jo responsible hai uske baare mein puchna.)
-
-**Whom**:  
-Whom did you give the gift to? (Formal, jo gift receive kiya uske baare mein puchna.)  
-Whom are you calling? (Phone pe jo hai uske baare mein puchna.)
-
-**How**:  
-How did you finish that report so quickly? (Process ya method ke baare mein puchna.)  
-How do I get to the station from here? (Directions ya instructions ke liye.)
-
-**Why**:  
-Why did you choose to study abroad? (Decision ke reason ke baare mein puchna.)  
-Why aren't you coming to the meeting? (Absence ka explanation puchna.)
-
-**What**:  
-What is your favorite book? (Preference ke baare mein puchna.)  
-What did you think of the movie? (Movie ke baare mein kisi ka opinion puchna.)
-
-**Which**:  
-Which cake would you like: chocolate or vanilla? (Limited options mein se choose karne ke liye puchna.)  
-Which team won the game last night? (Teams mein se ek ko puchna.)
-
-**Where**:  
-Where can I buy tickets for the concert? (Location ke baare mein puchna.)  
-Where did you go on vacation? (Jahaan vacation par gaye uske baare mein puchna.)
-
-**When**:  
-When does the concert start? (Specific time ke baare mein puchna.)  
-When did you move to this city? (Past mein kisi event ka time puchna.)
-
-## Modals
-
-**Can**  
-Use: Ability, permission, possibility
-
-- Ability: I can swim. (Main swim kar sakta hoon.)  
-- Permission: You can leave now. (Aap ab jaa sakte hain.)  
-- Possibility: It can get really cold in winter. (Winter mein bohot thand ho sakti hai.)
-
-**Could**  
-Use: Past ability, polite requests, possibility, suggestion
-
-- Past ability: I could run faster when I was younger. (Maine pehle tez daud sakta tha.)  
-- Polite request: Could you please pass me the salt? (Zyada polite tareeke se request karna.)  
-- Possibility: It could rain tomorrow. (Kal baarish ho sakti hai.)  
-- Suggestion: You could try restarting the computer. (Suggestion dena.)
-
-**May**  
-Use: Permission, possibility
-
-- Permission: May I go to the bathroom? (Kya main bathroom ja sakta hoon?)  
-- Possibility: We may go to the beach tomorrow if the weather is good. (Agar weather accha raha toh kal beach ja sakte hain.)
-
-**Might**  
-Use: Kam certainty wala possibility
-
-- Possibility (less certain than may): I might visit you later. (Ho sakta hai main tumhe baad mein visit karoon.)
-
-**Must**  
-Use: Necessity, strong recommendation, deduction
-
-- Necessity: You must wear a helmet when riding a bike. (Helmet pehna zaroori hai.)  
-- Strong recommendation: You must try this pizza! It’s amazing. (Strong suggestion.)  
-- Deduction (logical conclusion): He must be tired after working all day. (Lagta hai wo thaka hua hoga.)
-
-**Shall**  
-Use: Formal suggestion, offer, ya future action (mostly "I" ya "we" ke saath use hota hai)
-
-- Formal suggestion: Shall we go to the movies tonight? (Aaj raat movie dekhne chalna chahiye?)  
-- Offer: Shall I open the window? (Window khol doon?)  
-- Future action (British English mein zyada use hota hai): I shall return before noon. (Main dopahar se pehle wapas aa jaaunga.)
-
-**Should**  
-Use: Advice, recommendation, obligation, expectation
-
-- Advice/Recommendation: You should see a doctor. (Doctor ko dikhana chahiye.)  
-- Obligation: You should apologize for being late. (Late hone par apologize karna chahiye.)  
-- Expectation: The train should arrive at 10:30. (Train 10:30 par aane chahiye.)
-
-**Will**  
-Use: Future intention, offer, willingness
-
-- Future intention: I will study for the test tomorrow. (Kal test ke liye padhai karunga.)  
-- Offer: I will help you with that. (Main tumhari madad karunga.)  
-- Willingness: She will do anything for her family. (Woh apne family ke liye kuch bhi karegi.)
-
-**Would**  
-Use: Polite requests, hypothetical situations, past habitual actions
-
-- Polite request: Would you mind closing the window? (Window band karne ke liye polite tareeka.)  
-- Hypothetical situations: If I were rich, I would travel the world. (Agar main ameer hota toh duniya ghoomta.)  
-- Past habitual actions: Jab hum bachche the, hum har din bahar khelte the. (Jo action past mein regular hota tha.)
-
-**Ought to**  
-Use: Suggestion, advice, moral obligation (similar to "should")
-
-- Suggestion/Advice: You ought to try the new restaurant. (Naye restaurant ko try karna chahiye.)  
-- Moral obligation: You ought to help your friend when they are in need. (Jab dost ko madad ki zarurat ho, toh madad karni chahiye.)
-
-**Need to**  
-Use: Necessity, obligation (similar to "must")
-
-- Necessity: I need to finish this report by 5 p.m. (Mujhe yeh report 5 baje tak finish karni hai.)  
-- Obligation: You need to wear a mask inside the building. (Building ke andar mask pehna zaroori hai.)
-
+# PRACTICES :-
 ## Yesterday
 
 "Yesterday, I worked on fixing a bug related to database queries in the Golang service. I was able to improve the query performance by optimizing the indexes."
