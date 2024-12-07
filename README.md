@@ -1,5 +1,4 @@
 # English-Activation
-# English Activation
 
 ## Sentence:
 When we want to say or write something to another person, we combine words to form a sentence. The meaning of these words is usually known to the listener, so we expect to use words that they are familiar with. The main purpose of a sentence is to make the other person understand what we are trying to convey.
